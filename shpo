@@ -1,0 +1,1 @@
+java -cp ~/Downloads/selenium-server-standalone-3.141.59.jar:target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
